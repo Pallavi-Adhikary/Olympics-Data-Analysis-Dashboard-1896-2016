@@ -79,7 +79,7 @@ The Olympic Games are a rich source of data; but the raw dataset is unstructured
 
 #  How to Run
 
-* git clone https://github.com/Pallavi-Adhikary/Olympics-Data-Analysis-Dashboard(1896-2016) 
-* cd /Olympics-Data-Analysis-Dashboard(1896-2016) 
+* git clone https://github.com/Pallavi-Adhikary/Olympics-Data-Analysis-Dashboard-1896-2016 
+* cd /Olympics-Data-Analysis-Dashboard-1896-2016 
 * pip install -r requirements.txt
 * streamlit run app.py
