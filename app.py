@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.figure_factory as ff
 
-df = pd.read_csv('https://drive.google.com/file/d/1gZ5RH0WPT5TSR-1LlvAhyH7rz4WCbs_J/view?usp=drivesdk')
-region_df = pd.read_csv('https://drive.google.com/file/d/1l8TYcy8bZK1HQjiAh7VixnB6-S5elEqM/view?usp=drivesdk')
+df = pd.read_csv('https://drive.google.com/uc?export=download&id=1gZ5RH0WPT5TSR-1LlvAhyH7rz4WCbs_J')
+region_df = pd.read_csv('noc_regions.csv')
 
 df = preprocessor.preprocess(df,region_df)
 
