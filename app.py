@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.figure_factory as ff
 
-df = pd.read_csv('https://drive.google.com/uc?export=download&id=1gZ5RH0WPT5TSR-1LlvAhyH7rz4WCbs_J')
+df = pd.read_csv('athlete_events.csv')
 region_df = pd.read_csv('noc_regions.csv')
 
 df = preprocessor.preprocess(df,region_df)
