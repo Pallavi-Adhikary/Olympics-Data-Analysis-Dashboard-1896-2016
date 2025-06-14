@@ -1,6 +1,6 @@
-# 🏅 Olympics Data Analysis Dashboard (1896 - 2016)
+# 🏅 Olympics Data Analysis(1896 - 2016)
 
-An interactive data analysis dashboard built using **Streamlit** that uncovers deep insights from **120+ years of Olympic history**. This project visualizes athlete trends, medal performances, gender participation shifts, and much more through rich, interactive visualizations.
+An interactive data analysis project built using **Streamlit** that uncovers deep insights from **120+ years of Olympic history**. This project visualizes athlete trends, medal performances, gender participation shifts, and much more through rich, interactive visualizations.
 
 
 
